@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-modified new file
-=======
-new file
->>>>>>> feature
